@@ -1,11 +1,9 @@
-🙋🏽‍♂️ Hi, I’m [Dr. Loic Leray](https://loicleray.com) (vet). 
+🙋🏽‍♂️ Hi, I’m [Loic](https://loicleray.com) (vet). 
 
 I’m interested in:
 - 💻 coding
 - 🩺 veterinay science
-- 📷 [video creation](https://www.youtube.com/@loicleray). Hopefully you find something of use to you.
-
-✉️ [You can get in contact with me here.](https://loicleray.com/contact/)
+- 📷 [Making videos](https://www.youtube.com/@loicleray). Hopefully you find something of use to you.
 
 ---
 Currently looking to collaborate on [this tool](https://github.com/loicleray/WOAH_WAHIS.ReportRetriever) for veterinary epidemiologists.
