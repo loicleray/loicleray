@@ -1,8 +1,10 @@
 🙋🏽‍♂️ Hi, I’m [Loic](https://loicleray.com). 
 
-Self taught programmer building tools for veterinarians. Hopefully you find something useful to you.
+Trained as a vet, but now a programmer - mostly building tools for veterinarians.
 
-📷 [Aslo make videos](https://www.youtube.com/@loicleray). 
+Hopefully you find something useful to you.
+
+📷 [I sometimes make videos](https://www.youtube.com/@loicleray)
 
 
 <!---
