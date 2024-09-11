@@ -1,8 +1,11 @@
 🙋🏽‍♂️ Hi, I’m [Loic](https://loicleray.com). 
 
-Trained as a vet, but now a programmer - mostly building tools for veterinarians.
+**Dot-point into:**
 
-Hopefully you find something useful to you.
+- Trained as a veterinarian… and only failed once! 🐶
+- Built a lil media business (to help pay for vet studies)
+- Taught myself to code, after thinking only geniuses could do it
+- Currently flying drones in the Australian mining & exploration industries
 
 📷 [I sometimes make videos](https://www.youtube.com/@loicleray)
 
