@@ -2,9 +2,9 @@
 
 **Dot-point into:**
 
-- Trained as a veterinarian… and only failed once! 🐶
+- Trained as a veterinarian… 🐶
 - Built a lil media business (to help pay for vet studies)
-- Taught myself to code, after thinking only geniuses could do it
+- Taught myself to code
 - Currently flying drones in the Australian mining & exploration industries
 
 📷 [I sometimes make videos](https://www.youtube.com/@loicleray)
